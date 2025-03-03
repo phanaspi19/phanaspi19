@@ -34,4 +34,7 @@ Welcome to my GitHub profile!
 ✨ *This is a special repository because its `README.md` appears on your GitHub profile!*  
 ## About me Everyday
 - I'm play football in spi at 5-6  play with bong**
+- ⚽ I love playing football  
+- 🏆 My favorite team is Saint Paul Institure   
+- 🎯 Best football moment: Phana
 
