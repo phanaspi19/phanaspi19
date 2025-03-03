@@ -21,8 +21,8 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: [Email](mailto:your.phana.spi.eu@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ## 🛠 Skills  
-- 💻 Programming: **Python, JavaScript, C++**  
-- 🌐 Web Development: **HTML, CSS, React, Node.js**  
+//- 💻 Programming: **Python, JavaScript, C++**  //
+- 🌐 Web Development: **HTML, CSS, javasctipt**  
 - 🔌 IoT & Embedded Systems  
 
 ## 🔥 Fun Facts  
@@ -32,3 +32,6 @@ Welcome to my GitHub profile!
 ---
 
 ✨ *This is a special repository because its `README.md` appears on your GitHub profile!*  
+## About me Everyday
+- I'm play football in spi at 5-6  play with bong**
+
