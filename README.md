@@ -34,8 +34,10 @@
 ### 💬 Connect with Me  
 <p align="center">
   <a href="mailto:phana.spi.eu@gmail.com">
+    <div> ឆេង ផាណា  (FB) </div>
     <img src="https://img.shields.io/badge/Email-ff66b2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
 </p>
 
 ---
