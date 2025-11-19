@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#ff66b2;">PHANA</span></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=600&color=FF66B2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;From+Cambodia+🇰🇭;Coding+with+Passion+and+Creativity!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=600&color=FF66B2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;From+Cambodia+🇰🇭;Coding+with+Passion+and+Creativity!](https://avatars.githubusercontent.com/u/201364268?v=4)"/>
 </h3>
 
 <p align="center">
