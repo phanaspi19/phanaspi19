@@ -53,12 +53,41 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kantumruy+Pro&size=24&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=600&lines=%E1%9E%86%E1%9F%89%E1%9E%B9%E1%9E%84%E2%80%8B+%E1%9E%95%E1%9E%B6%E1%9E%8E%E1%9E%B6+(FB)+%E2%9D%A4%EF%B8%8F;Telegram:+0969050864;Email:+phana.spi.eu@gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kantumruy+Pro&size=24&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=600&lines=Phana+FB+%E2%9D%A4%EF%B8%8F;Telegram:+0969050864;Email:+phana.spi.eu@gmail.com" />
 </p>
 
+---
+
+## 🤝 Work With Me (IT Support • Web Development • Freelance)
+
+<p align="center">
+  💼 Available for <b>IT Support</b>, <b>Web Development</b>, and <b>Freelance Projects</b><br/>
+  🛠️ I can help with system setup, networking, websites, and full-stack apps.
+</p>
+
+<p align="center">
+  <a href="mailto:phana.spi.eu@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-ff66b2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/0969050864">
+    <img src="https://img.shields.io/badge/Telegram-ff66b2?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Services I Offer
+
+| Service | Description |
+|---|---|
+| 🖥️ IT Support | Install OS, fix PC issues, network setup, printer/server config |
+| 🌐 Web Development | Build responsive websites, admin panels, APIs |
+| 🗄️ Database | MySQL / Oracle design, ERD, optimization |
+| 🔐 Security | Basic cybersecurity, 2FA setup, server hardening |
+| 🎓 Training | Teach HTML, CSS, JS, Node.js, Networking |
 
 ---
 
 <p align="center">
-  🌷 *"Keep learning, keep coding, and make it beautiful!"* 🌷  
+  🌷 <i>"Keep learning, keep coding, and make it beautiful!"</i> 🌷  
 </p>
